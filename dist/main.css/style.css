@@ -1,0 +1,74 @@
+.PB1 {
+	background-color:black;
+	height:40px;
+	text-align: right;
+	padding-top:10px;
+
+}
+.PB1 a {
+	font-size: 25px;
+	color: white;
+	text-decoration: none;
+}
+.PBl {
+	background-color:rgb(0,255,250);
+	height:385px;
+
+}
+.PG1 {
+	background-color:rgb(0,254,0);
+	height:225px;
+	margin-top:64px;
+	margin-bottom:32px;
+	margin-left:10px;
+	margin-left:10px;
+
+}
+.PG2 {
+	background-color:rgb(0,254,0);
+	height:225px;
+	margin-top:64px;
+	margin-bottom:32px;
+	margin-left:10px;
+	margin-left:10px;
+
+}
+.PG3 {
+	background-color:rgb(0,254,0);
+	height:225px;
+	margin-top:64px;
+	margin-bottom:32px;
+	margin-left:10px;
+	margin-left:10px;
+
+}
+.PG4 {
+	background-color:rgb(0,254,0);
+	height:225px;
+	margin-top:64px;
+	margin-bottom:32px;
+	margin-left:10px;
+	margin-left:10px;
+}
+.PB2 {
+	background-color:rgb(46,46,46);
+	height:917px;
+}
+.PBl2 {
+	background-color:rgb(0,167,210);
+	height:412px;
+	padding-top:140px;
+	padding-bottom:70px;
+	padding-left:32px;
+	padding-right:32px;
+}
+.container {
+	background-color:rgb(65,212,238);
+	height:412px;
+}
+
+.PB3 {
+	background-color:rgb(56,56,56);
+	height:204px;
+
+}

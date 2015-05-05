@@ -1,0 +1,154 @@
+.DB1 {
+	background-color:rgb(40,60,82);
+	height:50px;
+	width:600px;
+
+}
+.LB1 {
+	background-color:rgb(0,134,221);
+	height:200px;
+	width:600px;
+	padding-top: 100px;
+}
+.LB1 a {
+	font-size: 20px;
+	font-family:arial;
+	color: white;
+	text-decoration: none;
+}
+.box1 {
+	background-color:rgb(0,134,221);
+	height:62px;
+	width:294px;
+	margin-left:150px;
+	margin-right:150px;
+	margin-bottom:18px;
+	border: 3px solid white;
+	text-align: center;
+	line-height: 62px;
+}
+.box2 {
+	background-color:rgb(177,226,251);
+	height:42px;
+	width:300px;
+	margin-left:150px;
+	margin-right:150px;
+	margin-bottom:10px;
+}
+	
+.box3 {
+	background-color:white;
+	height:30px;
+	width:170px;
+	margin-left:220px;
+	margin-right:220px;
+	margin-bottom:50px;
+}
+.DB2 {
+	background-color:rgb(49,72,95);
+	height:38px;
+	width:600px;
+	margin-top:35px; 
+	margin-bottom:35px;
+}
+.LB2 {
+	background-color:rgb(0,134,221);
+	height:130px;
+	width:570px; 
+	margin-bottom:25px;
+	margin-left:15px;
+	margin-right:15px;
+}
+.LB3 {
+	background-color:rgb(0,134,221);
+	height:130px;
+	width:570px; 
+	margin-bottom:25px;
+	margin-left:15px;
+	margin-right:15px;
+}
+.LB4 {
+	background-color:rgb(0,134,221);
+	height:130px;
+	width:570px; 
+	margin-bottom:25px;
+	margin-left:15px;
+	margin-right:15px;
+}
+.LB5 {
+	background-color:rgb(0,134,221);
+	height:130px;
+	width:570px; 
+	margin-bottom:25px;
+	margin-left:15px;
+	margin-right:15px;
+}
+.DB3 {
+	background-color:rgb(45,71,96);
+	height:360px;
+	width:550px;
+	padding-right:25px;
+	padding-left:25px;
+	padding-top:24px;
+	padding-bottom:24px;
+}
+.box4 {
+	background-color:rgb(142,157,172);
+	height:360px;
+	width:550px;
+
+}
+.DB4 {
+	background-color:rgb(49,72,95);
+	height:40px;
+	width:600px; 
+	margin-top:38px;
+}
+.G1 {
+	background-color:rgb(120,142,142);
+	height:262px;
+	width:549px; 
+	margin-top:46px;
+	margin-bottom:45px;
+	margin-left:25px;
+	margin-right:25px;
+}
+.DB5 {
+	background-color:rgb(45,71,96);
+	height:22px;
+	width:550px;
+	margin-bottom:32px;
+	margin-left:25px;
+	margin-right:25px;
+}
+.G2 {
+	background-color:rgb(124,141,141);
+	height:105px;
+	width:550px;
+	margin-bottom:32px;
+	margin-left:25px;
+	margin-right:25px;
+}
+.DB6 {
+	background-color:rgb(45,71,96);
+	height:22px;
+	width:550px;
+	margin-bottom:32px;
+	margin-left:25px;
+	margin-right:25px;
+}
+.G3 {
+	background-color:rgb(124,141,141);
+	height:105px;
+	width:550px;
+	margin-bottom:32px;
+	margin-left:25px;
+	margin-right:25px;
+}
+.G4 {
+	background-color:rgb(120,142,142);
+	height:42px;
+	width:576px;
+	border: 12px solid black;
+}
+	
